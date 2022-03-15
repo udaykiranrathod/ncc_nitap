@@ -1,21 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 
-
-
-.preloader img {
-	width: 250px; height: 250px;
-	background-size: contain;
-	animation: spin 1s linear infinite;
-}
-
-@keyframes spin {
-	to { transform: rotate(360deg) }
-}
-
-
-
-
 /********************* BOdy CSS****************************************************************/
 
 
@@ -997,6 +982,10 @@ label.read-more-trigger2 {
   padding: 10px;
 }
 
+
+.about{
+  padding: 10px;
+}
 
 
   
