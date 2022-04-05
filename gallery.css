@@ -383,16 +383,21 @@ border-radius: 5px;
 
 
 
-/***************     B certifiacte video poster                 ***********************************************/
+/***************      Videos & Posters                 ***********************************************/
 
 
-.B-cert{
+.box{
+  background-color: #000cb8e5;
+}
+
+.videos-box{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: aqua;
-  margin: 20px;
- 
+  justify-content: space-around;
+}
+
+.posters{
+  display: flex;
+  justify-content: space-around;
 }
 
 
